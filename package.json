@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bahhtee17/best-moments-portfolio-project.git"
+    "url": "git+https://github.com/bahhtee17/react-fullstack-portfolio-project.git"
   },
   "keywords": [
     "qwerty"
@@ -16,7 +16,7 @@
   "author": "Baxtiyor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bahhtee17/best-moments-portfolio-project/issues"
+    "url": "https://github.com/bahhtee17/react-fullstack-portfolio-project/issues"
   },
-  "homepage": "https://github.com/bahhtee17/best-moments-portfolio-project#readme"
+  "homepage": "https://github.com/bahhtee17/react-fullstack-portfolio-project#readme"
 }
